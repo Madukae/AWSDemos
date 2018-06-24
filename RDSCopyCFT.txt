@@ -46,7 +46,7 @@
                 },
                 {
                     "Label": {
-                        "default": "Encryption - see https://github.com/pbudzon/aws-maintenance#encryption for details"
+                        "default": "For Encryption - Provide Target Region KMS Key ARN"
                     },
                     "Parameters": [
                         "KMSKeyParameter"
